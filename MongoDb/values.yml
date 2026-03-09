@@ -1,3 +1,0 @@
-statefulset:
-  imageURL: joindevops/mongodb
-  imageVersion: v1
